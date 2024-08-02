@@ -1,4 +1,5 @@
-# COMP 3005 Group Project
+# Health-Fitness-Club-Management-System
+
 
 ## Members
 | Student name  | ID number |
